@@ -1,0 +1,1 @@
+## Crie uma variável chamada frutas que irá receber o valor maçã 

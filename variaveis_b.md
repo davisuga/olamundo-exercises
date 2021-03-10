@@ -1,0 +1,1 @@
+## Crie duas variáveis, A e B com os valores respectivamente: 10 e 5. Após isso, crie uma variável que some as duas variáveis. 

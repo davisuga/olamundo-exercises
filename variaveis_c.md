@@ -1,0 +1,1 @@
+## De o valor “kalunga” para a variável loja, e em seguida mostre o valor da variável em uma alert box.
